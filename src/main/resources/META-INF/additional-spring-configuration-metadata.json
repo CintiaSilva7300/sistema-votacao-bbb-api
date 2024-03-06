@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "apring.kafka.producer.bootstrap-servers",
+  "type": "java.lang.String",
+  "description": "A description for 'apring.kafka.producer.bootstrap-servers'"
+}]}
